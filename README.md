@@ -24,5 +24,5 @@ The five closest restaurants to the newly added restaurant, Penang Flavors, are:
 
 There 56 local autorities and here is how many each has restaurants with a hygiene score of 0:
 
-image.png
+![restaurants2](https://github.com/mike2463/no-sql-challenge/assets/102863554/d9253025-d184-4006-a66a-5e0ad236a140)
 
