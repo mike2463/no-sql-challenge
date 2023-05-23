@@ -23,15 +23,6 @@ The five closest restaurants to the newly added restaurant, Penang Flavors, are:
 4. How many establishments in each Local Authority area have a hygiene score of 0?
 
 There 56 local autorities and here is how many each has restaurants with a hygiene score of 0:
-	_id	count
-0	Thanet	1130
-1	Greenwich	882
-2	Maidstone	713
-3	Newham	711
-4	Swale	686
-5	Chelmsford	680
-6	Medway	672
-7	Bexley	607
-8	Southend-On-Sea	586
-9	Tendring	542
+
+image.png
 
